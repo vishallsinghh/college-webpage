@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/college-webpage/static/css/main.ba7516f2.chunk.css",
+    "main.js": "/college-webpage/static/js/main.96865d9d.chunk.js",
+    "main.js.map": "/college-webpage/static/js/main.96865d9d.chunk.js.map",
+    "runtime-main.js": "/college-webpage/static/js/runtime-main.f5476609.js",
+    "runtime-main.js.map": "/college-webpage/static/js/runtime-main.f5476609.js.map",
+    "static/js/2.0c526fc1.chunk.js": "/college-webpage/static/js/2.0c526fc1.chunk.js",
+    "static/js/2.0c526fc1.chunk.js.map": "/college-webpage/static/js/2.0c526fc1.chunk.js.map",
+    "static/js/3.a4a9cdc6.chunk.js": "/college-webpage/static/js/3.a4a9cdc6.chunk.js",
+    "static/js/3.a4a9cdc6.chunk.js.map": "/college-webpage/static/js/3.a4a9cdc6.chunk.js.map",
+    "index.html": "/college-webpage/index.html",
+    "static/css/main.ba7516f2.chunk.css.map": "/college-webpage/static/css/main.ba7516f2.chunk.css.map",
+    "static/js/2.0c526fc1.chunk.js.LICENSE.txt": "/college-webpage/static/js/2.0c526fc1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f5476609.js",
+    "static/js/2.0c526fc1.chunk.js",
+    "static/css/main.ba7516f2.chunk.css",
+    "static/js/main.96865d9d.chunk.js"
+  ]
+}
